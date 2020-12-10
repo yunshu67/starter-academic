@@ -6,35 +6,36 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Natural Language Processing
+  - Computer Vision
+  - Deep Learning
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: instagram
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.instagram.com/xys._.life/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/yunshu67
+  - link: https://www.facebook.com/huker.martin/
+    icon_pack: fab
+    icon: facebook
+  - link: https://weibo.com/7464864259/profile?topnav=1&wvr=6
+    icon_pack: fab
+    icon: weibo
 organizations:
   - name: Technical University Munich
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B. Sc. Informatics
+      institution: Technical University Munich
+      year: 2021
+    - course: M. Sc. Informatics
+      institution: Technical University Munich
+      year: 2023
 email: ""
 superuser: true
 user_groups:
@@ -42,7 +43,4 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tao Xiang is a bachelor of science: Informatics student at Technical University Munich. His research interests include natural language processing, computer vision and deep learning.

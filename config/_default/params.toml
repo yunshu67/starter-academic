@@ -113,10 +113,11 @@ phone = "+491714843548"
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "wechat", icon_pack = "fab", name = "Wechat Me", link = "skype:echo123?call"},
+  #{icon = "weibo", icon_pack = "fab", name = "Wechat Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  #{icon = "weixin", icon_pack = "fab", name = "Wechat Me", text = "fei_liu-AI" }
   ]
 
 ############################
@@ -127,7 +128,9 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "12313213"
+weixin = "fei_liu-AI"
+qq = "625763482"
 
 ############################
 ## Regional Settings
