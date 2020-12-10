@@ -117,7 +117,7 @@ contact_links = [
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  {icon = "weixin", icon_pack = "fab", name = "Wechat Me", text = "fei_liu-AI" }
+  #{icon = "weixin", icon_pack = "fab", name = "Wechat Me", text = "fei_liu-AI" }
   ]
 
 ############################
