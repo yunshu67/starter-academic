@@ -14,13 +14,10 @@ social:
     link: /#contact
   - icon: instagram
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.instagram.com/xys._.life/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/yunshu67
 organizations:
   - name: Technical University Munich
     url: ""
