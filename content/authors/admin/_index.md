@@ -13,9 +13,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/xys._.life/
   - icon: github
     icon_pack: fab
     link: https://github.com/yunshu67
