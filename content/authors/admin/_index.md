@@ -1,6 +1,6 @@
 ---
 title: Tao Xiang
-role: Student at Technical University Munich
+role: "B.Sc. Informatics Student "
 avatar_filename: passbild.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -22,7 +22,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 organizations:
-  - name: Stanford University
+  - name: Technical University Munich
     url: ""
 education:
   courses:
