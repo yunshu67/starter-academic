@@ -25,6 +25,12 @@ social:
   - link: https://weibo.com/7464864259/profile?topnav=1&wvr=6
     icon_pack: fab
     icon: weibo
+  - link: https://www.zhihu.com/people/meng-huan-bu-ke-zai-chu-xian
+    icon_pack: fab
+    icon: zhihu
+  - link: https://twitter.com/_yunshu_
+    icon_pack: fab
+    icon: twitter
 organizations:
   - name: Technical University Munich
     url: ""
