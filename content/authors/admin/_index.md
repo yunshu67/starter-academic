@@ -21,6 +21,9 @@ social:
   - link: https://www.facebook.com/huker.martin/
     icon_pack: fab
     icon: facebook
+  - link: https://weibo.com/7464864259/profile?topnav=1&wvr=6
+    icon_pack: fab
+    icon: weibo
 organizations:
   - name: Technical University Munich
     url: ""
