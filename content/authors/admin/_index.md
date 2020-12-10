@@ -1,7 +1,7 @@
 ---
 title: Tao Xiang
 role: "B.Sc. Informatics Student "
-avatar_filename: passbild.jpg
+avatar_filename: 微信图片_20201210135932.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
