@@ -12,7 +12,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: instagram
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
