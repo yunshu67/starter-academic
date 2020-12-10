@@ -24,8 +24,7 @@ subtitle = ""
   icon = "database"
   icon_pack = "fas"
   name = "Data Science"
-  description = "Scikit-Learn, Pandas, NumPy, Matplotlib
-Common Machine Learning Models"  
+  description = "Scikit-Learn, Pandas, NumPy, Matplotlib, Common Machine Learning Models"  
   
 [[feature]]
   icon = "tools"
