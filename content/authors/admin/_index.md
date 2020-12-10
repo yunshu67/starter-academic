@@ -1,6 +1,7 @@
 ---
 title: Tao Xiang
 role: Student at Technical University Munich
+avatar_filename: passbild.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
