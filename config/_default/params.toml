@@ -90,8 +90,6 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "tao.xiang@tum.de"
 phone = "+491714843548"
-weixin = "fei_liu-AI"
-qq = "625763482"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -119,7 +117,7 @@ contact_links = [
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  {icon = "weixin", icon_pack = "fab", name = "Wechat Me", description = "fei_liu-AI" }
+  {icon = "weixin", icon_pack = "fab", name = "Wechat Me", text = "fei_liu-AI" }
   ]
 
 ############################
@@ -131,6 +129,8 @@ sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""
+weixin = "fei_liu-AI"
+qq = "625763482"
 
 ############################
 ## Regional Settings
