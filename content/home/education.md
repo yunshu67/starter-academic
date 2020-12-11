@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.tum.de/"
   location = "Munich"
   date_start = "2021-10-01"
-  date_end = ""
+  date_end = "2023-03-01"
 
   [[experience]]
   title = "B. Sc. Informatics Student"
