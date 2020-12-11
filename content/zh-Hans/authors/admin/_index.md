@@ -1,14 +1,13 @@
 ---
-title: Tao Xiang
-role: "B.Sc. Informatics Student "
+title: 向涛
+role: "计算机科学（本科）学生 "
 avatar_filename: 微信图片_20201210135932.jpg
-bio: My research interests include natural language processing, computer vision
-  and deep learning.
+bio: 我的研究兴趣包括自然语言处理，计算机视觉和深度学习。
 interests:
-  - Artificial Intelligence
-  - Natural Language Processing
-  - Computer Vision
-  - Deep Learning
+  - 人工智能
+  - 自然语言处理
+  - 计算机视觉
+  - 深度学习
 hobbies:
   - Music & Films
   - Soccer
@@ -39,4 +38,4 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-Tao Xiang is a bachelor of science: Informatics student at Technical University Munich. His research interests include natural language processing, computer vision and deep learning.
+向涛是慕尼黑工业大学的理学学士：信息学学生。 他的研究兴趣包括自然语言处理，计算机视觉和深度学习。
