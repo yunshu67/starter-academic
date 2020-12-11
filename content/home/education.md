@@ -24,10 +24,14 @@ date_format = "Jan 2006"
   location = "Munich"
   date_start = "2021-10-01"
   date_end = ""
-
-
-
-
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
+  
 [[experience]]
   title = "B. Sc. Informatics Student"
   company = "Technical University Munich"
@@ -35,7 +39,6 @@ date_format = "Jan 2006"
   location = "Munich"
   date_start = "2018-10-01"
   date_end = "2021-7-1"
-  
-
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++

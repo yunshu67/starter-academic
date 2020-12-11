@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   * Modelling
   * Deploying
   """
-
+  
 [[experience]]
   title = "Professor"
   company = "University X"
