@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Blogs"
-  url = "www.google.com"
+  url = "#www.google.com"
   weight = 15
 
 [[main]]
