@@ -34,6 +34,6 @@ date_format = "Jan 2006"
   location = "Munich"
   date_start = "2018-10-01"
   date_end = "2021-7-1"
-  description = """
+  description = """"""
 
 +++

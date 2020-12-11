@@ -28,14 +28,10 @@ social:
 organizations:
   - name: Technical University Munich
     url: ""
-education:
-  courses:
-    - course: B. Sc. Informatics
-      institution: Technical University Munich
-      year: 2021
-    - course: M. Sc. Informatics
-      institution: Technical University Munich
-      year: 2023
+hobbies:
+  - Music & Films
+  - Soccer
+  - Traveling
 email: ""
 superuser: true
 user_groups:
