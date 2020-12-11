@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "教育"
+  name = "教育经历"
   url = "#education"
   weight = 13
 
