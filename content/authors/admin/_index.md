@@ -27,7 +27,7 @@ social:
     icon: twitter
 organizations:
   - name: Technical University Munich
-    url: ""
+    url: "https://www.tum.de/"
 hobbies:
   - Music & Films
   - Soccer
