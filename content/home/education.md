@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Munich"
   date_start = "2021-10-01"
   date_end = ""
-  description = """"""
+  description = """
 
 
 [[experience]]
@@ -34,6 +34,6 @@ date_format = "Jan 2006"
   location = "Munich"
   date_start = "2018-10-01"
   date_end = "2021-7-1"
-  description = """"""
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
