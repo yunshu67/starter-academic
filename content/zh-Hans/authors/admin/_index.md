@@ -29,7 +29,7 @@ social:
     icon_pack: fab
     icon: twitter
 organizations:
-  - name: Technical University Munich
+  - name: 慕尼黑工业大学
     url: "https://www.tum.de/"
 email: ""
 superuser: true
