@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "Education"
+  url = "#education"
+  weight = 13
+
+[[main]]
   name = "Blogs"
   url = "https://www.jianshu.com/u/00c25cdda9a1"
   weight = 15
