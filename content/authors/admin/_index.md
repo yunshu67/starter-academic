@@ -2,8 +2,8 @@
 title: Tao Xiang
 role: "B.Sc. Informatics Student "
 avatar_filename: 微信图片_20201210135932.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include natural language processing, computer vision
+  and deep learning.
 interests:
   - Artificial Intelligence
   - Natural Language Processing
