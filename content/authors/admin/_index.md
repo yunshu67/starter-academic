@@ -9,6 +9,10 @@ interests:
   - Natural Language Processing
   - Computer Vision
   - Deep Learning
+hobbies:
+  - Music & Films
+  - Soccer
+  - Traveling
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,10 +32,6 @@ social:
 organizations:
   - name: Technical University Munich
     url: "https://www.tum.de/"
-hobbies:
-  - Music & Films
-  - Soccer
-  - Traveling
 email: ""
 superuser: true
 user_groups:
