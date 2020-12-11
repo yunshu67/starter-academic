@@ -16,9 +16,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/yunshu67
-  - link: https://www.facebook.com/huker.martin/
-    icon_pack: fab
-    icon: facebook
   - link: https://weibo.com/7464864259/profile?topnav=1&wvr=6
     icon_pack: fab
     icon: weibo
