@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Munich"
   date_start = "2021-10-01"
   date_end = ""
-  description = """
+  description = """"""
 
 
 [[experience]]
