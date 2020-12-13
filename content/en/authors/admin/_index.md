@@ -29,6 +29,9 @@ social:
   - link: https://twitter.com/_yunshu_
     icon_pack: fab
     icon: twitter
+  - link: https://www.linkedin.com/in/yunshu86/
+    icon_pack: fab
+    icon: linkedin
 organizations:
   - name: Technical University Munich
     url: "https://www.tum.de/"
