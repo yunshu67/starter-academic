@@ -2,8 +2,8 @@
 title: "CIS Program: Algorithm and Modeling Method in Biomedical Imaging"
 subtitle: ""
 date: 2020-12-14T15:47:12.976Z
-draft: false
-featured: false
+draft: true
+featured: true
 tags: []
 categories: []
 external_link: https://www.cathaypath.com/onlineprojects/JensRittscher.html
