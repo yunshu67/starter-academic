@@ -23,10 +23,10 @@
   url = "#posts"
   weight = 20
 
-#[[main]]
-#  name = "项目"
-#  url = "#projects"
-#  weight = 30
+[[main]]
+  name = "项目"
+  url = "#projects"
+  weight = 30
 
 #[[main]]
 #  name = "发表"
