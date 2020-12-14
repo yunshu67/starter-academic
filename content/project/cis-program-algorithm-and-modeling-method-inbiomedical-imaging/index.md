@@ -3,8 +3,11 @@ title: "CIS Program: Algorithm and Modeling Method in Biomedical Imaging"
 subtitle: ""
 date: 2020-12-14T15:47:12.976Z
 summary: >-
-  **Professor**: [Jens
-  Rittscher](http://www.hmc.ox.ac.uk/people/dr-jens-rittscher/)
+  **[Course
+  Intro](https://github.com/yunshu67/personal-projects/blob/main/CIS/algorithm_and_modeling_method_in_biomedical_Imaging/course_intro.md)**
+
+
+  **Professor**: [Jens Rittscher](http://www.hmc.ox.ac.uk/people/dr-jens-rittscher/)
 
 
   **[Certificates](https://github.com/yunshu67/personal-projects/tree/main/CIS/algorithm_and_modeling_method_in_biomedical_Imaging/certificates)**
