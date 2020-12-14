@@ -22,7 +22,7 @@ links:
     icon_pack: fas
     icon: diploma
 image:
-  filename: 微信图片_20201211222042.jpg
+  filename: featured.jpg
   focal_point: Top
   preview_only: false
 ---
