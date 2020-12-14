@@ -19,7 +19,7 @@ summary: >-
   **[Github Repository](https://github.com/yunshu67/personal-projects/tree/main/CIS)**
 
 
-  **Paper**
+  **[Paper](media/test.pdf)**
 draft: false
 featured: true
 tags: []
