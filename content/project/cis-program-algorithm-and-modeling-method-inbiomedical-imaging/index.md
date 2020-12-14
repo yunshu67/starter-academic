@@ -10,6 +10,9 @@ summary: >-
   **Professor**: [Jens Rittscher](http://www.hmc.ox.ac.uk/people/dr-jens-rittscher/)
 
 
+  **Course Date**: 30.01.2021 - 04.04.2021
+
+
   **[Certificates](https://github.com/yunshu67/personal-projects/tree/main/CIS/algorithm_and_modeling_method_in_biomedical_Imaging/certificates)**
 
 
