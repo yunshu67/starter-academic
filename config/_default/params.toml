@@ -117,7 +117,7 @@ contact_links = [
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://cutt.ly/yunshu-wechat"},
-  {icon = "weixin", icon_pack = "fab", name = "Wechat Me", link = "https://cutt.ly/yunshu-wechat" },
+  {icon = "weixin", icon_pack = "fab", name = "Wechat Me", link = "media/wechat.jpg" },
   {icon = "whatsapp", icon_pack = "fab", name = "Whatsapp Me", link = "https://cutt.ly/yunshu-whatsapp"}
   ]
 
