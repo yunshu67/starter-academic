@@ -7,10 +7,10 @@ summary: >-
   Rittscher](http://www.hmc.ox.ac.uk/people/dr-jens-rittscher/)
 
 
-  **[Certificates](https://www.jianshu.com/u/00c25cdda9a1)**
+  **[Certificates](https://github.com/yunshu67/personal-projects/tree/main/CIS/algorithm_and_modeling_method_in_biomedical_Imaging/certificates)**
 
 
-  **[Github Repository](https://www.jianshu.com/u/00c25cdda9a1)**
+  **[Github Repository](https://github.com/yunshu67/personal-projects/tree/main/CIS)**
 draft: false
 featured: true
 tags: []
