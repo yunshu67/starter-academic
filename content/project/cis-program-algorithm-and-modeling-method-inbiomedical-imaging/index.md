@@ -2,7 +2,7 @@
 title: "CIS Program: Algorithm and Modeling Method in Biomedical Imaging"
 subtitle: ""
 date: 2020-12-14T15:47:12.976Z
-draft: true
+draft: false
 featured: true
 tags: []
 categories: []
