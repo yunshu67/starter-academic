@@ -26,8 +26,3 @@ image:
   focal_point: Top
   preview_only: false
 ---
-**Professor**: [Jens Rittscher](http://www.hmc.ox.ac.uk/people/dr-jens-rittscher/)
-
-**[Certificates](https://github.com/yunshu67/personal-projects/tree/main/CIS/algorithm_and_modeling_method_in_biomedical_Imaging/certificates)**
-
-**[Github Repository](https://github.com/yunshu67/personal-projects/tree/main/CIS)**
