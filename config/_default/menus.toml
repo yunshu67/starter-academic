@@ -40,7 +40,7 @@
 
 [[main]]
   name = "中文"
-  url = "wechat.png"
+  url = "./wechat.png"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
