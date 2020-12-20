@@ -40,7 +40,7 @@
 
 [[main]]
   name = "中文"
-  url = "/static/media/test.pdf"
+  url = "/starter-academic/static/media/test.pdf"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
