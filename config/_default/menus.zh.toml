@@ -40,7 +40,7 @@
 
 [[main]]
   name = "English"
-  url = "/"
+  url = "~/"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
