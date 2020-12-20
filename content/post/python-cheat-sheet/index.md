@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-[source](https://github.com/yunshu67/PDFs/blob/master/python%20cheatsheat.pdf)
+[PDF file](https://github.com/yunshu67/PDFs/blob/master/python%20cheatsheat.pdf)
 
 
 
