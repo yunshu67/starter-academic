@@ -40,7 +40,8 @@
 
 [[main]]
   name = "中文"
-  url = "https://yunshu.me/zh/"
+  contentDir = "content/zh-Hans"
+  url = "#about"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
