@@ -25,12 +25,19 @@ subtitle = ""
   icon_pack = "fas"
   name = "Data Science"
   description = "Scikit-Learn, Pandas, NumPy, Matplotlib, Tensorflow,\nCommon Machine Learning Models"  
+
+[[feature]]
+  icon = "desktop"
+  icon_pack = "fas"
+  name = "Web Development"
+  description = "HTML, CSS, JavaScript, PHP"
   
 [[feature]]
   icon = "tools"
   icon_pack = "fas"
   name = "Tools"
   description = "Git, VS Code, XCode, Jupyter"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
