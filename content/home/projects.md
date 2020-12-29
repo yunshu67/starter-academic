@@ -33,6 +33,20 @@ subtitle = ""
   name = "Programming"
   tag = "programming"
 
+[[content.filter_button]]
+  name = "Uni"
+  tag = "uni"
+
+[[content.filter_button]]
+  name = "Online Course"
+  tag = "online-course"
+
+[[content.filter_button]]
+  name = "Computer Vision"
+  tag = "CV"
+
+
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
