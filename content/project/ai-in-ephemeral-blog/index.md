@@ -8,5 +8,6 @@ image:
   filename: ai.jpeg
   focal_point: Smart
   preview_only: false
+tag: Web
 ---
 My first website!
