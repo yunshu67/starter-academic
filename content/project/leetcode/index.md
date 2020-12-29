@@ -8,7 +8,7 @@ summary: >-
 
   <a  href="https://yunshu67.github.io/blog-taoxiang/notes/algorithms/slidingWindow.html" style="color:#797979;text-decoration:none;font-size:11px">2) sliding window</a><br>
 
-  <a  href="https://yunshu67.github.io/blog-taoxiang/notes/algorithms/slidingWindow.html" style="color:#797979;text-decoration:none;font-size:11px">3) dynammic programming</a>
+  <a  href="https://yunshu67.github.io/blog-taoxiang/notes/algorithms/dynamicProgramming.html" style="color:#797979;text-decoration:none;font-size:11px">3) dynammic programming</a>
 draft: false
 tags:
 - programming
