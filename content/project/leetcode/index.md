@@ -2,7 +2,7 @@
 title: LEETCODE
 date: 2020-12-29T13:20:49.355Z
 summary: >-
-  <p style="color:#797979">Dream of being an Algorithmer</p>
+  <p style="color:#797979">Dream of being an Algorithmer!</p>
 
   <a  href="https://yunshu67.github.io/blog-taoxiang/notes/algorithms/preSum.html" style="color:#797979;text-decoration:none;font-size:11px">1) preSum</a><br>
 
