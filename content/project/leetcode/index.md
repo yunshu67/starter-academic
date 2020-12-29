@@ -10,6 +10,8 @@ summary: >-
 
   <a  href="https://yunshu67.github.io/blog-taoxiang/notes/algorithms/slidingWindow.html" style="color:#797979;text-decoration:none;font-size:11px">3) dynammic programming</a>
 draft: false
+tags:
+- programming
 featured: true
 external_link: https://leetcode-cn.com/u/yunshu67/
 image:
