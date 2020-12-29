@@ -23,10 +23,10 @@
   url = "https://yunshu67.github.io/blog-taoxiang/"
   weight = 15
 
-[[main]]
-  name = "文章"
-  url = "#posts"
-  weight = 20
+#[[main]]
+#  name = "文章"
+#  url = "#posts"
+#  weight = 20
 
 [[main]]
   name = "项目"
