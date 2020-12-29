@@ -28,14 +28,14 @@ subtitle = ""
 [[content.filter_button]]
   name = "Web"
   tag = "Web"
-  
-[[content.filter_button]]
-  name = "Programming"
-  tag = "programming"
 
 [[content.filter_button]]
   name = "Uni"
   tag = "uni"
+[[content.filter_button]]
+  name = "Programming"
+  tag = "programming"
+
 
 [[content.filter_button]]
   name = "Online Course"
