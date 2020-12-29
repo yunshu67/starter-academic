@@ -21,7 +21,8 @@ summary: >-
   **论文**
 draft: false
 featured: true
-tags: []
+tags:
+- CV
 categories: []
 external_link: https://www.cathaypath.com/onlineprojects/JensRittscher.html
 image:
