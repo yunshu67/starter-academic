@@ -27,7 +27,7 @@ subtitle = ""
   
 [[content.filter_button]]
   name = "Web"
-  tag = "LEETCODE"
+  tag = "Web"
   
 [[content.filter_button]]
   name = "Other"

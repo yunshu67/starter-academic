@@ -1,5 +1,7 @@
 ---
 title: AI IN EPHEMERAL BLOG
+tags:
+- Web
 date: 2020-12-29T13:45:13.768Z
 draft: false
 featured: false
