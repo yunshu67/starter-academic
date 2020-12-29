@@ -26,24 +26,27 @@ subtitle = ""
   tag = "*"
   
 [[content.filter_button]]
+  name = "Uni"
+  tag = "uni"
+
+[[content.filter_button]]
   name = "Web"
   tag = "Web"
 
+
 [[content.filter_button]]
-  name = "Uni"
-  tag = "uni"
-[[content.filter_button]]
-  name = "Programming"
+  name = "Algorithms"
   tag = "programming"
+
+[[content.filter_button]]
+  name = "Computer Vision"
+  tag = "CV"
 
 
 [[content.filter_button]]
   name = "Online Course"
   tag = "online-course"
 
-[[content.filter_button]]
-  name = "Computer Vision"
-  tag = "CV"
 
 
 

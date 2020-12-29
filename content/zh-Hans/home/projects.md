@@ -26,23 +26,25 @@ name = "All"
 tag = "*"
 
 [[content.filter_button]]
-name = "Web"
-tag = "Web"
+name = "大学"
+tag = "uni"
 
 [[content.filter_button]]
-name = "Uni"
-tag = "uni"
+name = "网页开发"
+tag = "Web"
+
+
 [[content.filter_button]]
-name = "Programming"
+name = "算法"
 tag = "programming"
 
 
 [[content.filter_button]]
-name = "Online Course"
+name = "在线课程"
 tag = "online-course"
 
 [[content.filter_button]]
-name = "Computer Vision"
+name = "计算机视觉"
 tag = "CV"
 
 

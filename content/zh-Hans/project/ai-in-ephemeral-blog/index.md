@@ -11,4 +11,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-My first website!
+我的第一个网站!
