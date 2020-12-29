@@ -22,7 +22,8 @@ summary: >-
   **[Paper](media/test.pdf)**
 draft: false
 featured: true
-tags: []
+tags:
+- CV
 categories: []
 external_link: https://www.cathaypath.com/onlineprojects/JensRittscher.html
 links:
