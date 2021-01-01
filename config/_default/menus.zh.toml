@@ -54,5 +54,5 @@ weight = 70
 [[main]]
   name = "English"
   url = "../"
-  weight = 70
+  weight = 75
 
