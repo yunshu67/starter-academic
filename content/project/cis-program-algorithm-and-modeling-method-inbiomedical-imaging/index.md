@@ -4,7 +4,7 @@ subtitle: ""
 date: 2020-12-14T15:47:12.976Z
 summary: >-
   **[Course
-  Intro](https://github.com/yunshu67/personal-projects/blob/main/CIS/algorithm_and_modeling_method_in_biomedical_Imaging/course_intro.md)**
+  Intro](https://github.com/yunshu67/personal-projects/blob/main/CIS_program/algorithm_and_modeling_method_in_biomedical_Imaging/course_intro.md)**
 
 
   **Professor**: [Jens Rittscher](http://www.hmc.ox.ac.uk/people/dr-jens-rittscher/)
@@ -13,10 +13,10 @@ summary: >-
   **Course Date**: 30.01.2021 - 04.04.2021
 
 
-  **[Certificates](https://github.com/yunshu67/personal-projects/tree/main/CIS/algorithm_and_modeling_method_in_biomedical_Imaging/certificates)**
+  **[Certificates](https://github.com/yunshu67/personal-projects/tree/main/CIS_program/algorithm_and_modeling_method_in_biomedical_Imaging/certificates)**
 
 
-  **[Github Repository](https://github.com/yunshu67/personal-projects/tree/main/CIS)**
+  **[Github Repository](https://github.com/yunshu67/personal-projects/tree/main/CIS_program/algorithm_and_modeling_method_in_biomedical_Imaging)**
 
 
   **[Paper](media/test.pdf)**
