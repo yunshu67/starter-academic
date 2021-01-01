@@ -43,14 +43,16 @@
   url = "#contact"
   weight = 60
 
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
+[[main]]
+name = "简历"
+url = "zh/media/向涛的个人简历.pdf"
+weight = 70
+
 [[main]]
   name = "English"
   url = "../"
   weight = 70
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "简历"
-#    url = "media/cv.pdf"
-#    weight = 70
