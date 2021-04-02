@@ -9,10 +9,6 @@ interests:
   - Natural Language Processing
   - Computer Vision
   - Deep Learning
-hobbies:
-  - Music & Films
-  - Soccer
-  - Traveling
 social:
   - icon: envelope
     icon_pack: fas
@@ -32,14 +28,21 @@ social:
   - link: https://www.linkedin.com/in/yunshu86/
     icon_pack: fab
     icon: linkedin
+  - icon_pack: fab
+    icon: youtube
+    link: https://space.bilibili.com/660658331
 organizations:
   - name: Technical University Munich
-    url: "https://www.tum.de/"
+    url: https://www.tum.de/
 email: ""
 superuser: true
 user_groups:
   - Researchers
   - Visitors
+hobbies:
+  - Music & Films
+  - Soccer
+  - Traveling
 highlight_name: false
 ---
 Tao Xiang is a bachelor of science: Informatics student at Technical University Munich. His research interests include natural language processing, computer vision and deep learning.
