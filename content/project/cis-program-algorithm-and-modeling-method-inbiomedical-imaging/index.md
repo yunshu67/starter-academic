@@ -14,16 +14,16 @@ summary: >-
   **[Course and Topic Intro](https://github.com/yunshu67/Analysis-of-brightfield-images/wiki)**
 
 
-  **[](https://github.com/yunshu67/Analysis-of-brightfield-images/wiki)课程日期**: 30.01.2021 - 04.04.2021
+  **[](https://github.com/yunshu67/Analysis-of-brightfield-images/wiki)Course Date**: 30.01.2021 - 04.04.2021
 
 
-  **[证书](https://github.com/yunshu67/personal-projects/tree/main/CIS_program/algorithm_and_modeling_method_in_biomedical_Imaging/certificates)**
+  **[Certificates](https://github.com/yunshu67/personal-projects/tree/main/CIS_program/algorithm_and_modeling_method_in_biomedical_Imaging/certificates)**
 
 
   **[Github Repository](https://github.com/yunshu67/Analysis-of-brightfield-images)**
 
 
-  **[论文](media/test.pdf)**
+  **[Paper](media/test.pdf)**
 draft: false
 featured: true
 tags:
