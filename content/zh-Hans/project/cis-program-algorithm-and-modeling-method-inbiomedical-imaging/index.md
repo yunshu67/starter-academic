@@ -8,7 +8,7 @@ summary: >-
   **教授**: [Jens Rittscher](http://www.hmc.ox.ac.uk/people/dr-jens-rittscher/)
 
 
-  **项目主题**: Analysis of brightfield images
+  **项目主题**: Detection of HeLa Cells in brightfield images
 
 
   **[课题和项目主题介绍](https://github.com/yunshu67/Analysis-of-brightfield-images/wiki)**
@@ -23,7 +23,7 @@ summary: >-
   **[Github Repository](https://github.com/yunshu67/Analysis-of-brightfield-images)**
 
 
-  **[论文](media/test.pdf)**
+  **[论文](https://github.com/yunshu67/Analysis-of-brightfield-images/blob/main/Detection%20of%20HeLa%20Cells%20in%20brightfield%20images.pdf)**
 draft: false
 featured: true
 tags:
